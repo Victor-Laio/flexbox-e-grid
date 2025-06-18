@@ -51,7 +51,3 @@ Adaptar layouts para diferentes tamanhos de tela.
 
 
 ## 📝 Licença MIT – Sinta-se livre para usar, estudar e compartilhar!
-
----
-
-Se quiser, posso adaptar o conteúdo com base no que exatamente foi feito (ex: se é um clone de layout, desafio do curso, ou algo do zero). Me avisa se quer adicionar isso!
